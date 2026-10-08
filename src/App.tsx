@@ -26,7 +26,7 @@ import {
   createUserWithEmailAndPassword, 
   signOut, 
   onAuthStateChanged,
-  User 
+  type User 
 } from 'firebase/auth';
 import { doc, getDoc, setDoc } from 'firebase/firestore';
 
