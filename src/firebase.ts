@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAAjBjdoU3-oOCiuJ4ha3ff95CGsRXPimk",
+  apiKey: "AIzaSyAuAotEqYYRsQC8CN5Wy1fX43eGrZNlYvE",
   authDomain: "fc-27-tracker.firebaseapp.com",
   projectId: "fc-27-tracker",
   storageBucket: "fc-27-tracker.firebasestorage.app",
